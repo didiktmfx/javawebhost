@@ -52,7 +52,12 @@
   {{-- card --}}
   
   {{-- card --}}
-<section class="mt-4 mb-4">
+  <section class="mt-4 mb-4">
+    <h1>JAVAWEBHOST NETWORK</h1>
+    <h3>Lorem ipsum dolor sit amet.</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur libero quaerat vero dolorum suscipit enim debitis veritatis eligendi ad quam.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro pariatur ex neque quibusdam iusto perferendis commodi adipisci eaque? Nam eveniet quos temporibus possimus, facere corrupti assumenda laudantium sequi atque quod vitae unde et. Aliquid sed debitis iste. Eveniet, facilis nam.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos animi quidem ut nesciunt ducimus eveniet alias voluptatem libero est fuga recusandae itaque assumenda excepturi tempore deserunt iure repudiandae, sunt harum consectetur iste, fugiat voluptas. Non eveniet nisi commodi nihil! Doloribus consectetur vel ullam, vitae ea non! Dolor sequi ab perspiciatis.</p>
   <div class="card text-center">
     <div class="card-header">
       Featured
@@ -68,7 +73,10 @@
   </div>
 </section>
   
-<section class="mb-4">
+<section class="mt-4 mb-4">
+  <h1>JAVAWEBHOST NETWORK</h1>
+  <h3>Lorem, ipsum dolor.</h3>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas nam dignissimos alias reprehenderit ullam veritatis beatae laudantium distinctio! Quidem similique aspernatur modi temporibus quod quasi rem. Repellendus, odio sunt laboriosam harum numquam eaque. Voluptas quia ducimus voluptate consequatur? Nisi quidem neque, at tempora sapiente odio ipsa enim. Natus at dolores reprehenderit quaerat illum labore molestias optio aperiam atque voluptas, rerum eius, quas neque? Tenetur non delectus itaque ut temporibus rem! Earum adipisci dignissimos sapiente aut!</p>
   <div class="card text-center">
     <div class="card-header">
       <ul class="nav nav-pills card-header-pills">
@@ -91,7 +99,11 @@
   </div>
 </section>
  
-<section class="mb-4">
+<section class="mt-4 mb-4">
+  <h1>JAVAWEBHOST NETWORK</h1>
+  <h3>Lorem ipsum dolor sit amet consectetur adipisicing.</h3>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Suscipit autem, ratione ea hic cupiditate odit. Magnam deserunt accusantium veritatis repellat dolorem voluptas excepturi soluta adipisci neque nesciunt molestias, modi tenetur. Quo error officiis accusantium consequatur quibusdam quidem, laudantium sint quasi.</p>
+  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti suscipit harum provident cum deserunt error mollitia eum itaque repellat eveniet. Distinctio exercitationem, quo itaque alias consequuntur, officia, tempore enim commodi obcaecati dicta necessitatibus provident corrupti.</p>
   <div class="card mb-3">
     <img src="https://source.unsplash.com/640x320?laptop" class="card-img-top" alt="...">
     <div class="card-body">
@@ -102,7 +114,10 @@
   </div>
 </section>
 
-<section class="mb-4">
+<section class="mt-4 mb-4">
+  <h1>JAVAWEBHOST NETWORK</h1>
+  <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur, architecto illum voluptatum minima, laborum velit doloribus neque quo repellendus saepe asperiores ex consectetur quisquam deleniti alias ratione molestiae. Rerum ipsa quae repellendus ipsam porro sequi earum dicta. Magnam similique officia, minima voluptate expedita explicabo quos in quod sed nihil omnis.</p>
   <div class="card">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -113,7 +128,12 @@
   </div>
 </section>
 {{-- end card --}}
-<section class="mb-4">
+<section class="mt-4 mb-4">
+  <h1>JAVAWEBHOST NETWORK</h1>
+  <h3>Lorem ipsum dolor sit.</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ratione officiis magnam velit hic culpa ullam sunt aut qui itaque.</p>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ad tempora, modi quo facilis animi temporibus, vero voluptates quod doloremque odio cumque harum reiciendis, quidem ut totam maxime omnis quisquam dicta.</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus quaerat, aut sunt aspernatur maxime, eum consequatur temporibus voluptatem natus dolores alias, possimus doloribus deleniti accusantium. Facilis cupiditate voluptates distinctio? Quo dignissimos vitae dolorum quia possimus!</p>
 <h3>F.A.Q</h3>
 <div class="accordion accordion-flush" id="accordionFlushExample">
     <div class="accordion-item">
@@ -145,8 +165,32 @@
       <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
         <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.</div>
       </div>
+      <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the second item's accordion body. Let's imagine this being filled with some actual content.</div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="flush-headingThree">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+          Accordion Item #4
+        </button>
+      </h2>
+      <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body">Placeholder content for this accordion, which is intended to demonstrate the <code>.accordion-flush</code> class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.</div>
+      </div>
     </div>
   </div>
+</section>
+<section>
+<div class="container">
+<p>Footer</p>
+
+
+
+
+</div>
+
+
 </section>
 
 
